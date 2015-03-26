@@ -30,7 +30,8 @@
     "full_text": {
       "keys": [
         "village_name",
-        "publish_year"]
+        "publish_year"
+        ]
     }
   },
   "facets": {
