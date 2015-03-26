@@ -9,6 +9,10 @@
     "center":[23.452260784108,71.9957852347009],
     "zoom":13,
     "maxZoom":16,
+    "maxBounds":[
+        [23.2, 72.0],
+        [24.5, 73.0]
+    ]
   },
   "properties": [
     "organization_name",
