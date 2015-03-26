@@ -15,22 +15,22 @@
     ]
   },
   "properties": [
-    "Village Name",
-    "Publish Year",
+    "village_name",
+    "publish_year",
 
-    {"name": "Village Name", "title": "Village Name" },
-    {"name": "Publish Year", "title": "Information"}
+    {"name": "village_name", "title": "Village Name" },
+    {"name": "publish_year", "title": "Information"}
   ],
   "list": [
-    "Village Name",
-    "Publish Year"
+    "village_name",
+    "publish_year"
   ],
   "search": {
     "geosearch": true,
     "full_text": {
       "keys": [
-        "Village Name",
-        "Publish Year"]
+        "village_name",
+        "publish_year"]
     }
   },
   "facets": {
