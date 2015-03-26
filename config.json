@@ -7,7 +7,7 @@
   "map": {
     "preview_attribute": "slipforward",
     "center":[23.452260784108,71.9957852347009],
-    "zoom":13,
+    "zoom":10,
     "maxZoom":16,
     "maxBounds":[
         [23.2, 72.0],
