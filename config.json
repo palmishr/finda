@@ -5,14 +5,10 @@
     "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
   },
   "map": {
-    "preview_attribute": "organization_name",
+    "preview_attribute": "slipforward",
     "center":[23.452260784108,71.9957852347009],
     "zoom":13,
     "maxZoom":16,
-    "maxBounds":[
-      [23, 78.0],
-      [30, 65.0]
-    ]
   },
   "properties": [
     "organization_name",
