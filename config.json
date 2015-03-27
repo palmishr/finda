@@ -16,7 +16,7 @@
   },
   "properties": [
     "village_name",
-    "publish_year"
+    "publish_year",
     {"name": "village_name", "title": "Village Name" },
     {"name": "publish_year", "title": "Information"}
   ],
