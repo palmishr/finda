@@ -5,7 +5,7 @@
     "contact": "Please send feedback, ideas, and bug reports to our <a href=\"https://github.com/codeforboston/finda/issues\" target=\"_blank\">Github</a> page."
   },
   "map": {
-    "preview_attribute": "slipforward",
+    "preview_attribute": "village_name",
     "center":[23.452260784108,71.9957852347009],
     "zoom":10,
     "maxZoom":16,
@@ -29,6 +29,16 @@
         "village_name",
         "publish_year"
         ]
+    }
+  },
+  "facets": {
+    "village_name": {
+      "title": "Village Name",
+      "type": "list"
+    },
+    "publish_year": {
+      "title": "Publish Year",
+      "type": "single"
     }
   },
   "analytics": {
