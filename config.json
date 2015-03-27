@@ -35,7 +35,7 @@
     }
   },
   "facets": {
-    "village_names": {
+    "village_name": {
       "title": "Villages",
       "type": "list"
     },
