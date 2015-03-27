@@ -15,9 +15,6 @@
     ]
   },
   "properties": [
-    "village_name",
-    "publish_year",
-
     {"name": "village_name", "title": "Village Name" },
     {"name": "publish_year", "title": "Information"}
   ],
@@ -32,16 +29,6 @@
         "village_name",
         "publish_year"
         ]
-    }
-  },
-  "facets": {
-    "village_name": {
-      "title": "Villages",
-      "type": "list"
-    },
-    "publish_year": {
-      "title": "Est Year",
-      "type": "year"
     }
   },
   "analytics": {
